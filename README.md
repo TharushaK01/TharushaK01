@@ -16,9 +16,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/tharusha kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharusha kavinda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tharusha kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha kavinda" height="30" width="40" /></a>
-<a href="https://fb.com/tharusha kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha kavinda" height="30" width="40" /></a>
-<a href="https://instagram.com/tharusha kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharusha kavinda" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tharushak01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha kavinda" height="30" width="40" /></a>
+<a href="https://web.facebook.com/tharusha.kavinda.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha kavinda" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tka_tharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharusha kavinda" height="30" width="40" /></a>
 <a href="https://youtube.com/@tkaproducts?si=PAbsyZ6dJAxcfq6h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tka products" height="30" width="40" /></a>
 </p>
 
