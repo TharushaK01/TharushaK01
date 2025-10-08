@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS, PostgreSQL**
 
-- 💬 Ask me about **React, Angular, Wordpress (Divi, Elementor)**
+- 💬 Ask me about **React, Angular, VueJS, Wordpress (Divi, Elementor), Webflow**
 
 - 📫 How to reach me **tharushakavinda01@gmail.com**
 
