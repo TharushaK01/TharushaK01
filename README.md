@@ -28,7 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/TharushaK"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="TharushaK" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushak01&show_icons=true&locale=en&layout=compact" alt="tharushak01" />
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tharushak01&show_icons=true&locale=en" alt="tharushak01" /></p>
+
 
 
